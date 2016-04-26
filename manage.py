@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 import os
 import sys
-# Husseins project
+# Husseins project with Mo
 if __name__ == "__main__":
     os.environ.setdefault("DJANGO_SETTINGS_MODULE", "byoot.settings")
 
